@@ -25,3 +25,10 @@ Update: https://yoursite.com/update (update to new)
 Username: admin@gmail.com
 
 Password: 12345678
+
+## Thanksa lot for your interest!
+If you are happy with the script and want to support
+
+Dogecoin: DBRXP7jCosw4huoDqDfHWf9QGETcebsqCH
+
+Bitcoin: 1AtRVevmRpxDdjcYKQt8chUxjFm1Pgkcfh
