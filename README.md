@@ -5,7 +5,7 @@ Link2U is simple and easy handeling link shortener script. Gives you the ability
 
 For more details, visit here: [Link2U requirements](https://webfuelcode.wall-spot.com/link2u-free-link-shortener-service-script/)
 
-You get:
+#### You get:
 - Link shortener with auto generated 7 character long code
 - Anonymouse as well as registered user (link shortener)
 - SEO friendly pages
@@ -15,12 +15,13 @@ You get:
 - Assign roles to users (Admin & Moderator)
 
 # How to install?
-Just upload the file on server and hit the URL to install newly Link2U project.
+Upload the ZIP file and extract on the server. Then just hit the URL to install the Link2U script.
 
-Install: https://yoursite/install
+Install: https://yoursite/install (newly installation)
 
-Update: https://yoursite.com/update
+Update: https://yoursite.com/update (update to new)
 
 # Admin
 Username: admin@gmail.com
+
 Password: 12345678
