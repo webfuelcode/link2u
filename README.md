@@ -26,7 +26,7 @@ Username: admin@gmail.com
 
 Password: 12345678
 
-## Thanksa lot for your interest!
+## Thanks a lot for your interest!
 If you are happy with the script and want to support
 
 Dogecoin: DBRXP7jCosw4huoDqDfHWf9QGETcebsqCH
