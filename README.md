@@ -29,6 +29,6 @@ Password: 12345678
 ## Thanks a lot for your interest!
 If you are happy with the script and want to support
 
-Dogecoin: DBRXP7jCosw4huoDqDfHWf9QGETcebsqCH
+Dogecoin: DDeE9vhaTYjCV1UHY6dvmFtuqpSsARefn6
 
-Bitcoin: 1AtRVevmRpxDdjcYKQt8chUxjFm1Pgkcfh
+Bitcoin: 16a1xXSmiFCHAbvsfjMXXvj7F8aytZNMXc
